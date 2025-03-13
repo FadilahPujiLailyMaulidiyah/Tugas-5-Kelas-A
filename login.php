@@ -95,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <div class="container">
-        <img src="logintugas4.png" alt="Logo Login" class="logo">
+        <img src="logintugas5.png" alt="Logo Login" class="logo">
         
         <h2>ACCOUNT</h2>
         <?php if (isset($error)) echo "<p class='error'>$error</p>"; ?>
